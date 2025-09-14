@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "old",
+            "request": "launch",
+            "mainClass": "NEw.old",
+            "projectName": "JFSD--CoreJava_f64d04a7"
+        },
+        {
+            "type": "java",
+            "name": "ConditionalsDemo",
+            "request": "launch",
+            "mainClass": "Conditionals.ConditionalsDemo",
+            "projectName": "JFSD--CoreJava_f64d04a7"
+        },
+        {
+            "type": "java",
             "name": "VariablesDemo",
             "request": "launch",
             "mainClass": "VariablesDemo"
